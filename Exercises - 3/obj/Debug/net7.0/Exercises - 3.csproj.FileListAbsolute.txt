@@ -1,0 +1,15 @@
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/bin/Debug/net7.0/Exercises - 3
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/bin/Debug/net7.0/Exercises - 3.deps.json
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/bin/Debug/net7.0/Exercises - 3.runtimeconfig.json
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/bin/Debug/net7.0/Exercises - 3.dll
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/bin/Debug/net7.0/Exercises - 3.pdb
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.csproj.AssemblyReference.cache
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.AssemblyInfoInputs.cache
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.AssemblyInfo.cs
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.csproj.CoreCompileInputs.cache
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.dll
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/refint/Exercises - 3.dll
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.pdb
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/Exercises - 3.genruntimeconfig.cache
+/Users/liven/Projects/Exercises-17-C-sharp-essential/Exercises - 3/obj/Debug/net7.0/ref/Exercises - 3.dll
